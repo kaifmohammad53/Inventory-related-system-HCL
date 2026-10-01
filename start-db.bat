@@ -1,0 +1,3 @@
+@echo off
+echo Starting Retail Inventory MySQL Server on port 3307...
+"C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe" --datadir="C:\Users\Public\mysql_data" --port=3307 --console
